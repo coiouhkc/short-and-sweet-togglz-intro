@@ -90,4 +90,10 @@ See demo4-quarkus-unleash
 * https://en.wikipedia.org/wiki/Feature_toggle
 * https://martinfowler.com/articles/feature-toggles.html
 * https://docs.oracle.com/javase/tutorial/jmx/mbeans/standard.html
+* https://www.togglz.org/
+* https://www.togglz.org/documentation/spring-boot-starter
+* https://www.baeldung.com/spring-togglz
+* https://github.com/Unleash
+* https://quarkus.io/extensions/io.quarkiverse.unleash/quarkus-unleash/
+* https://www.getunleash.io/
 * https://docs.getunleash.io/topics/feature-flags/feature-flag-best-practices
