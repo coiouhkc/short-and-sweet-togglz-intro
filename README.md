@@ -40,11 +40,18 @@ Then some reason and background.
 
 <!-- A/B testing -->
 
-* Permission toggles
+* Permission toggles ?
 
 <!-- License-based premium features -->
 
 (c) Martin Fowler
+
+---
+
+# Offtopic: current project
+
+* Ops toggle for initialization of new microservice (Togglz)
+* Ops toggle for performance profiling (MBeans)
 
 ---
 
