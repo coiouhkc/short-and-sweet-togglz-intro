@@ -97,3 +97,5 @@ See demo4-quarkus-unleash
 * https://quarkus.io/extensions/io.quarkiverse.unleash/quarkus-unleash/
 * https://www.getunleash.io/
 * https://docs.getunleash.io/topics/feature-flags/feature-flag-best-practices
+* https://openfeature.dev/
+* https://posthog.com/blog/best-open-source-feature-flag-tools
