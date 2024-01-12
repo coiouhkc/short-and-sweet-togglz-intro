@@ -67,11 +67,21 @@ See demo1-custom-inmemory
 
 See demo2-custom-mbeans
 
+<!--
+visualvm
+-->
+
 ---
 
 # Spring Boot + Togglz
 
 See demo3-springboot-togglz
+
+<!-- 
+jdk17
+gradle clean bootRun
+http://localhost:8080/togglz-console/index 
+-->
 
 ---
 
